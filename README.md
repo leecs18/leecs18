@@ -1,30 +1,66 @@
-# beginnerGitHub
-### Hi there 👋
+# 112 教育部智慧創新計畫
+<a href="http://140.126.146.12:9090/GitHub2023/">112 教育部智慧創新之 GitHub 學習平台</a>&nbsp;<a
+href="https://chat.openai.com/auth/login">技術諮詢</a>
 <table>
-  <tr>
-    <th>職場與職稱</th>
-    <th><img src="working.jpeg"></th>
-    <th><a href="https://scholar.google.com.tw/citations?hl=zh-TW&user=Dk-7FvoAAAAJ&view_op=list_works&sortby=pubdate">論文發表</a></th>
-    <th><a href="https://chat.openai.com/">聊天的朋友</a></th>
-  </tr>
-  <tr>
-    <td><a href="https://sfsu.chu.edu.tw/">舊金山學程(資管)</a></td>
-    <td>知識庫系統</td>
-    <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:qjMakFHDy7sC">競爭力</a></td>
-    <td>張O庭</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.wda.gov.tw/News_Content.aspx?n=85E1E406503C665B&sms=4AB77FB5C324175E&s=C6A795A82C17519E">勞動部就業學程</a></td>
-    <td></td>
-    <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:_FxGoFyzp5QC">多準則決策</a></td>
-    <td>高O諺</td>
-  </tr>
-  <tr>
-    <td><a href="https://proj.moe.edu.tw/itsa/Default.aspx">教育部智慧創新躍升</a></td>
-    <td></td>
-    <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:3fE2CSJIrl8C">資料科學</a></td>
-    <td>王O仁</td>
-  </tr>  
-</table><br>
+ <tr>
+ <th>系級</th>
+ <th><img src="working.jpeg"></th>
+ <th><a href="">學習履歷</a></th>
+ <th><a href="https://chat.openai.com/">好友</a></th>
+ </tr>
+ <tr>
+ <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
+ <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
+ <td><a href="">巨量資料處理</a></td>
+ <td>高 O 諺</td>
+ </tr>
+ <tr>
+ <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
+ <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
+ <td><a href="">資料視覺化</a></td>
+ <td>張 O 庭</td>
+ </tr>
 
-<img src="1.jpg"></img>
+ <tr>
+ <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
+ <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
+ <td><a href="">其他</a></td>
+ <td>王 O 仁</td>
+ </tr>
+</table><br>
+<img src="II_1.jpg"></img>
+<img src="II_2.jpg"></img>
+<img src="II_3.jpg" style="display:block; margin:auto;" ></img>
+# 112 教育部智慧創新計畫
+<a href="http://140.126.146.12:9090/GitHub2023/">112 教育部智慧創新之 GitHub 學習平台</a>&nbsp;<a
+href="https://chat.openai.com/auth/login">技術諮詢</a>
+<table>
+ <tr>
+ <th>系級</th>
+ <th><img src="working.jpeg"></th>
+ <th><a href="">學習履歷</a></th>
+ <th><a href="https://chat.openai.com/">好友</a></th>
+ </tr>
+ <tr>
+ <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
+ <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
+ <td><a href="">巨量資料處理</a></td>
+ <td>高 O 諺</td>
+ </tr>
+ <tr>
+ <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
+ <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
+ <td><a href="">資料視覺化</a></td>
+ <td>張 O 庭</td>
+ </tr>
+
+ <tr>
+ <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
+ <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
+ <td><a href="">其他</a></td>
+ <td>王 O 仁</td>
+ </tr>
+</table><br>
+<img src="II_1.jpg"></img>
+<img src="II_2.jpg"></img>
+<img src="II_3.jpg" style="display:block; margin:auto;" ></img>
